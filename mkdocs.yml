@@ -1,0 +1,71 @@
+site_name: Malifaux Community Rulings
+site_description: Официальные разъяснения, RAW-анализ и локальные договорённости по Malifaux 4E
+site_url: https://adrirock.github.io/Malifaux_4e_Rules_and_Agreements/
+repo_url: https://github.com/AdriRock/Malifaux_4e_Rules_and_Agreements
+repo_name: AdriRock/Malifaux_4e_Rules_and_Agreements
+docs_dir: docs
+theme:
+  name: material
+  language: ru
+  custom_dir: overrides
+  features:
+    - navigation.indexes
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.action.edit
+plugins:
+  - search:
+      lang:
+        - ru
+        - en
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+nav:
+  - Главная: index.md
+  - Разъяснения:
+      - Обзор: rulings/index.md
+      - Официальные:
+          - Обзор: rulings/official/index.md
+          - "Tara, Voidcaller — Adrift In Time": rulings/official/tara-voidcaller-adrift-in-time.md
+      - RAW: rulings/raw/index.md
+      - Договорённости сообщества: rulings/community/index.md
+      - Спорные вопросы: rulings/disputed/index.md
+      - Шаблон записи: rulings/template.md
+  - Модели:
+      - Обзор: models/index.md
+      - Arcanists: models/arcanists/index.md
+      - Bayou: models/bayou/index.md
+      - Explorer's Society: models/explorers-society/index.md
+      - Guild: models/guild/index.md
+      - Neverborn: models/neverborn/index.md
+      - Outcasts:
+          - Обзор: models/outcasts/index.md
+          - "Tara, Voidcaller": models/outcasts/tara-voidcaller.md
+      - Resurrectionists: models/resurrectionists/index.md
+      - Ten Thunders: models/ten-thunders/index.md
+  - Экипажи:
+      - Обзор: crews/index.md
+      - Arcanists: crews/arcanists/index.md
+      - Bayou: crews/bayou/index.md
+      - Explorer's Society: crews/explorers-society/index.md
+      - Guild: crews/guild/index.md
+      - Neverborn: crews/neverborn/index.md
+      - Outcasts: crews/outcasts/index.md
+      - Resurrectionists: crews/resurrectionists/index.md
+      - Ten Thunders: crews/ten-thunders/index.md
+  - Общие правила:
+      - Обзор: rules/index.md
+      - Активации: rules/activation.md
+  - Источники: sources/index.md
+  - О проекте:
+      - Статусы: about/statuses.md
+      - Методология: about/methodology.md
+      - Как помочь: about/contributing.md

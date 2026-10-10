@@ -1,0 +1,61 @@
+name: Ruling proposal
+description: Предложить новое разъяснение или изменение существующего
+title: "[Ruling]: "
+labels:
+  - ruling
+body:
+  - type: dropdown
+    id: status
+    attributes:
+      label: Предлагаемый статус
+      options:
+        - official
+        - raw
+        - community
+        - disputed
+    validations:
+      required: true
+  - type: textarea
+    id: question
+    attributes:
+      label: Вопрос или игровая ситуация
+    validations:
+      required: true
+  - type: textarea
+    id: answer
+    attributes:
+      label: Предлагаемый итог
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Источник и версия
+      placeholder: "M4E FAQ, June 2026"
+    validations:
+      required: true
+  - type: input
+    id: reference
+    attributes:
+      label: Точная ссылка
+      placeholder: "Section 11, 11.4–11.5, printed page 8"
+    validations:
+      required: true
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Обоснование и альтернативные трактовки
+  - type: input
+    id: scope
+    attributes:
+      label: Сообщество и область действия
+      description: Обязательно для community ruling.
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Проверка
+      options:
+        - label: Я не выдаю RAW или локальную договорённость за официальный ответ Wyrd.
+          required: true
+        - label: Я не прикладываю полную копию официального PDF.
+          required: true

@@ -1,0 +1,4 @@
+site/
+.mkdocs-check/
+.cache/
+__pycache__/
