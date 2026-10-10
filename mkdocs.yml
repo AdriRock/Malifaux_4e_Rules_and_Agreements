@@ -48,6 +48,8 @@ nav:
           - "Tara, Voidcaller — Adrift In Time": rulings/official/tara-voidcaller-adrift-in-time.md
           - Resurrectionists: rulings/official/resurrectionists.md
           - Ten Thunders: rulings/official/ten-thunders.md
+          - Campaign: rulings/official/campaign.md
+          - Архив снятых пунктов June 2026: rulings/official/archive/faq-june-2026-not-current-online.md
       - RAW: rulings/raw/index.md
       - Договорённости сообщества: rulings/community/index.md
       - Спорные вопросы: rulings/disputed/index.md
@@ -79,6 +81,7 @@ nav:
       - Активации: rules/activation.md
   - Источники:
       - Обзор: sources/index.md
+      - Онлайн-FAQ — 2026-10-10: sources/faq-online-2026-10-10.md
       - FAQ June 2026: sources/faq-june-2026.md
   - О проекте:
       - Статусы: about/statuses.md

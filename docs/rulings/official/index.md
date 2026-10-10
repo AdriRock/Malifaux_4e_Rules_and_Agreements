@@ -1,6 +1,6 @@
 # Официальные разъяснения
 
-Краткие русские пересказы ответов, опубликованных Wyrd. Сейчас каталог полностью покрывает *Malifaux Fourth Edition Frequently Asked Questions*, June 2026.
+Краткие русские пересказы ответов, опубликованных Wyrd. Актуальный каталог синхронизирован с [онлайн-FAQ производителя](https://malifauxrules.com/rules/faq) по состоянию на 2026-10-10.
 
 ## Общие разделы
 
@@ -24,8 +24,11 @@
 | [11](outcasts.md) | Outcasts |
 | [12](resurrectionists.md) | Resurrectionists |
 | [13](ten-thunders.md) | Ten Thunders |
+| [Online](campaign.md) | Campaign |
 
 Отдельная подробная запись: [Tara, Voidcaller — Adrift In Time](tara-voidcaller-adrift-in-time.md).
+
+Исторические ответы, присутствовавшие в PDF June 2026, но отсутствующие в текущем онлайн-FAQ: [архив снятых пунктов](archive/faq-june-2026-not-current-online.md).
 
 !!! info "Объём цитирования"
     База не копирует официальный PDF целиком. В ней приведены краткие пересказы с точными номерами пунктов и страницами источника.

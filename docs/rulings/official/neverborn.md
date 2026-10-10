@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-section-10
 title: "FAQ: Neverborn"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 10: Neverborn, 10.1–10.5; printed page 8"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: Neverborn; online IDs 35–37, 65–66, 92–95"
 topics: [neverborn, savage, woe, candy, lord-chompy-bits, titania]
 last_reviewed: 2026-10-10
 superseded: false
@@ -32,6 +32,22 @@ Candy является Unique Model.
 
 Новое в June 2026. Trigger может выбрать модель, отличную от цели родительского Action **The Withering**. Выбирается модель в base contact с Underbrush Marker; другая дружественная модель в пределах 8" от выбранной помещается в base contact с целью и объявляет указанный Action.
 
+## Online FAQ 92 — Woe: Opportunist
+
+Woe-модель может снять с себя дружественный Token посредством **Opportunist**, когда становится целью Attack, и получить преимущества этой Ability.
+
+## Online FAQ 93 — Stifling Thicket: Gift of the Queen
+
+Ability следует читать так: один раз за активацию, когда модель объявляет Action и находится в пределах 1" от Underbrush Marker, она может получить Crow к duel total. Добавлять Crow именно к первому Action, например Walk, необязательно.
+
+## Online FAQ 94 — Terror Tots и Young Nephilim: Relish in Blood
+
+Ability может использовать только та модель с **Relish in Blood**, которая сама объявила Attack, нанёсший урон. Attack другой модели Ability не запускает.
+
+## Online FAQ 95 — Nekima, Broodmother: The Strong Survive
+
+TN Action должен быть успешно пройден. Сначала цель объявляет созданный Attack Action, а затем разрешается оставшаяся часть **The Strong Survive**, указанная как «after resolving».
+
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 10, печатная страница 8.
+[Официальный онлайн-FAQ, категория Neverborn](https://malifauxrules.com/rules/faq), проверено 2026-10-10.

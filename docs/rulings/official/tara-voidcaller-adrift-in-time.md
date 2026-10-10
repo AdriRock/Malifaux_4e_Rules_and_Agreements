@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-11-4-11-5
 title: "Tara, Voidcaller — Adrift In Time"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 11: Outcasts, 11.4–11.5; printed page 8"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: Outcasts; online IDs 69–70; PDF June 2026, 11.4–11.5"
 topics:
   - outcasts
   - tara-voidcaller
@@ -34,7 +34,7 @@ Tara не может использовать **Adrift In Time**, если вс�
 
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 11: Outcasts, пункты 11.4–11.5, печатная страница 8. В этой версии оба пункта помечены как новые FAQ.
+[Официальный онлайн-FAQ](https://malifauxrules.com/rules/faq), категория Outcasts, IDs 69–70; также PDF June 2026, Section 11, пункты 11.4–11.5, печатная страница 8.
 
 ## Связанные страницы
 

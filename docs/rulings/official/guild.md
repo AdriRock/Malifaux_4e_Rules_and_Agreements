@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-section-9
 title: "FAQ: Guild"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 9: Guild, 9.1–9.4; printed pages 7–8"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: Guild; online IDs 34, 62–64"
 topics: [guild, dashel-barker, domador-de-cadaveres, hoffman, familia]
 last_reviewed: 2026-10-10
 superseded: false
@@ -30,4 +30,4 @@ superseded: false
 
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 9, печатные страницы 7–8.
+[Официальный онлайн-FAQ, категория Guild](https://malifauxrules.com/rules/faq), проверено 2026-10-10.

@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-section-11
 title: "FAQ: Outcasts"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 11: Outcasts, 11.1–11.6; printed pages 8–9"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: Outcasts; online IDs 38, 67–70, 96–97"
 topics: [outcasts, zipp, parker, rusty-alyce, tara-voidcaller, rat-king]
 last_reviewed: 2026-10-10
 superseded: false
@@ -32,8 +32,12 @@ superseded: false
 
 ## 11.6 — Rat King: Prey on the Weak
 
-Новое в June 2026. Модель со стоимостью `-` не считается ни более дешёвой, ни более дорогой. Rat King не получает бонусов за меньшую стоимость цели.
+Текущий онлайн-ответ заменяет версию из PDF June 2026: если Cost модели равен `-`, для **Prey on the Weak** в качестве Cost используется её Maximum Health.
+
+## Online FAQ 97 — Freikorps: Adaptive Tactics и “I'm Out!”
+
+Если Freikorps-модель использует **Adaptive Tactics** для выполнения Action с Upgrade другой модели и объявляет Trigger **“I'm Out!”**, этот Upgrade сбрасывается.
 
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 11, печатные страницы 8–9.
+[Официальный онлайн-FAQ, категория Outcasts](https://malifauxrules.com/rules/faq), проверено 2026-10-10. Ответ Rat King обновлён относительно PDF June 2026.

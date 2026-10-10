@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-section-2
 title: "FAQ: Actions"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 2: Actions, 2.1–2.4; printed page 4"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: Actions; online IDs 17, 44–46, 78"
 topics: [actions, interact, damage, los, masters, control]
 last_reviewed: 2026-10-10
 superseded: false
@@ -28,6 +28,10 @@ superseded: false
 
 Новое в June 2026. Master может получить Action от другой модели, например через **Coordinated Attack**, если другая модель не контролирует выполнение этого Action.
 
+## Online FAQ 78 — Гибель действующей модели во время Duel
+
+Урон, возникающий во время Duel (например, от Brilliance Token), применяется немедленно. Если действующая модель погибает, Action останавливается прямо во время Duel, оставшаяся часть Action не выполняется, а активация модели заканчивается.
+
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 2, печатная страница 4.
+[Официальный онлайн-FAQ, категория Actions](https://malifauxrules.com/rules/faq), проверено 2026-10-10.

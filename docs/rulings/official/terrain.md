@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-section-3
 title: "FAQ: Terrain"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 3: Terrain, 3.1; printed page 4"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: Terrain; online ID 18"
 topics: [terrain, movement, elevation, height]
 last_reviewed: 2026-10-10
 superseded: false
@@ -18,4 +18,4 @@ superseded: false
 
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 3, печатная страница 4.
+[Официальный онлайн-FAQ, категория Terrain](https://malifauxrules.com/rules/faq), проверено 2026-10-10.

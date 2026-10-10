@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-section-4
 title: "FAQ: Encounters"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 4: Encounters, 4.1–4.15; printed pages 4–6"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: Encounters; online IDs 19, 22–24, 41, 79–87"
 topics: [encounters, strategies, schemes, markers, tokens, los, terrain]
 last_reviewed: 2026-10-10
 superseded: false
@@ -20,9 +20,9 @@ superseded: false
 
 Action модели **Walk the Line** не может двигать модель к Strategy Marker: Action игнорирует этот Marker и не распознаёт его как допустимую точку направления.
 
-## 4.3 — Перекрытие Strategy Marker другим Marker
+## Online FAQ 79 — Перекрытие Strategy Marker другим Marker
 
-Marker можно создать с перекрытием Strategy Marker, если у Strategy Marker нет Impassable. Strategy Marker размещается сверху и остаётся доступен для LoS и выбора целью.
+Marker можно создать с перекрытием Strategy Marker, если у Strategy Marker нет Impassable Trait или отдельного правила, запрещающего такое размещение.
 
 ## 4.4 — Толщина центральной линии
 
@@ -38,42 +38,38 @@ Centerline не имеет толщины. База, касающаяся лин
 2. Explosive Tokens, полученные при подготовке Encounter «after deployment», являются вражескими.
 3. Модель, развёрнутая позднее через **From Shadows** или подобный эффект, Explosive Token не получает: timing относится к моменту после общего шага Deployment.
 
-## 4.7 — Leave Your Mark
-
-LoS Scheme Marker до Centerpoint можно перекрыть, например моделью противника на Centerpoint.
-
-## 4.8 — Reveal после активации Peon
-
-Scheme вроде **Breakthrough** можно раскрыть в конце активации Peon, даже если Peon игнорируется Schemes: его активация служит timing point.
-
-## 4.9 — Frame Job и игнорируемая модель
+## Online FAQ 80 — Frame Job и игнорируемая модель
 
 Новое в June 2026. Если урон нанесла модель, игнорируемая Strategies и Schemes (например, Peon или модель с Craven Token), **Frame Job** раскрыть нельзя.
 
-## 4.10 — Recover Evidence и игнорируемая модель
+## Online FAQ 81 — Recover Evidence и игнорируемая модель
 
 Новое в June 2026. Если такая модель убивает противника, создать Strategy Marker по **Recover Evidence** она не может.
 
-## 4.11 — Breakthrough и игнорируемая модель противника
+## Online FAQ 82 — Breakthrough и игнорируемая модель противника
 
 Новое в June 2026. Противник может получить условие раскрытия **Breakthrough** в конце активации вашей игнорируемой модели: сама модель не выполняет Scheme, а лишь создаёт timing point.
 
-## 4.12 — Plant Explosives, Obey и принадлежность Marker
+## Online FAQ 83 — Plant Explosives, Obey и принадлежность Marker
 
 Новое в June 2026. Если враг контролирует модель и заставляет её создать Strategy Marker, Marker остаётся дружественным контролируемой модели, а не модели, применившей Obey.
 
-## 4.13 — LoS Informant Marker
+## Online FAQ 84 — LoS Informant Marker
 
 Новое в June 2026. Модели не перекрывают LoS между Informant Marker и дружественной моделью: сам Marker не считает никакую модель врагом.
 
-## 4.14 — Копирование Strategy Tokens
+## Online FAQ 85 — Копирование Strategy Tokens
 
 Новое в June 2026. Strategy Tokens, включая Explosive Tokens, можно копировать, если Ability или Action это позволяет.
 
-## 4.15 — Созданный эффектом Terrain для Strategies и Schemes
+## Online FAQ 86 — Terrain Markers при подсчёте очков
 
-Новое в June 2026. Terrain, появившийся в результате Ability или Token, нельзя использовать для выполнения Strategies и Schemes.
+Terrain Markers, созданные бандой, продолжают блокировать LoS при проверке условий подсчёта очков, например для **Undercover Agent**. Ограничение означает лишь, что созданный бандой Terrain Marker нельзя использовать непосредственно для набора очков — например, нельзя выполнить **Reconnaissance**, размещая Scheme Markers возле такого Terrain Marker.
+
+## Online FAQ 87 — Reshape the Land и созданный бандой Marker
+
+Marker, созданный своей бандой (например, Piano Marker), можно выбрать для **Reshape the Land**.
 
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 4, печатные страницы 4–6.
+[Официальный онлайн-FAQ, категория Encounters](https://malifauxrules.com/rules/faq), проверено 2026-10-10. Ответы June 2026 про **Leave Your Mark** и раскрытие **Breakthrough** после активации Peon отсутствуют в текущем онлайн-списке и перенесены в исторический реестр.

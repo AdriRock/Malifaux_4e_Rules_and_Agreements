@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-section-1
 title: "FAQ: общие правила"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 1: General, 1.1–1.16; printed pages 2–3"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: General; online IDs 2–16, 40, 43, 76–77"
 topics: [los, cover, movement, timing, tokens, abilities, fate-deck, elevation]
 last_reviewed: 2026-10-10
 superseded: false
@@ -78,6 +78,14 @@ Pulse или другой area effect создаёт отдельный эффе
 
 Новое в June 2026. Формулировку следует читать как требование находиться на elevation 2 или выше. Нахождение внутри непреодолимого Ht 2 Terrain само по себе условие не выполняет.
 
+## Online FAQ 76 — Alignment Tokens при Summon
+
+Нейтральных Tokens в Malifaux нет. Если модель призвана дружественным эффектом, полученные из-за Summon Slow и Summoned Tokens являются дружественными; если призыв создан эффектом, который модель считает вражеским, Tokens являются вражескими.
+
+## Online FAQ 77 — Aura (Staggered) Tokens
+
+Aura (Staggered) Tokens сами по себе не снимаются. Их удаляет только отдельный игровой эффект, например Trigger **Purification**. Это правило относится к Aura (Staggered) Tokens, а не к обычным Staggered Tokens.
+
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 1, печатные страницы 2–3.
+[Официальный онлайн-FAQ, категория General](https://malifauxrules.com/rules/faq), проверено 2026-10-10. Пункты 1.1–1.16 также сверены с PDF June 2026.

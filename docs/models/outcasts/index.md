@@ -7,5 +7,6 @@
 - **Rusty Alyce, Trigger Happy** — BOOM! Headshot! во время вражеских Attacks (11.3).
 - **[Tara, Voidcaller](tara-voidcaller.md)** — Adrift In Time и порядок активаций (11.4–11.5).
 - **Rat King** — Prey on the Weak против модели со стоимостью `-` (11.6).
+- **Freikorps** — Adaptive Tactics и “I'm Out!” (online ID 97).
 
 [Открыть подробные ответы раздела Outcasts](../../rulings/official/outcasts.md).

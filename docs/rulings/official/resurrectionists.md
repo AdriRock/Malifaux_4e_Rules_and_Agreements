@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-section-12
 title: "FAQ: Resurrectionists"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 12: Resurrectionists, 12.1–12.4; printed page 9"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: Resurrectionists; online IDs 72–74, 98–100"
 topics: [resurrectionists, tormented, jack-daw, ikiryo, gokudo, crooligan, rabble-riser]
 last_reviewed: 2026-10-10
 superseded: false
@@ -28,6 +28,14 @@ superseded: false
 
 Новое в June 2026. Если Zoraida одного игрока контролирует Crooligan другого игрока и тот убивает союзного Rabble Riser, никто не получает kill credit, поэтому никто не сбрасывает карту и никто не погибает от Demise Rabble Riser.
 
+## Online FAQ 99 — Siren's Sway: Lament of the Cursed
+
+Trigger **Lament of the Cursed** нельзя использовать для контроля Action Master.
+
+## Online FAQ 100 — Corpse Curator: Control Graft
+
+Action следует играть так: целью выбирается союзник с Graft Token; он объявляет Action, напечатанный на его Crew Card, не снимая Graft Token. Если объявлен **“New Arms!”**, затем можно объявить дополнительный Interact Action.
+
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 12, печатная страница 9.
+[Официальный онлайн-FAQ, категория Resurrectionists](https://malifauxrules.com/rules/faq), проверено 2026-10-10.

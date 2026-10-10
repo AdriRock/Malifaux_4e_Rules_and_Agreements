@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-section-6
 title: "FAQ: Arcanists"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 6: Arcanists, 6.1–6.4; printed page 6"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: Arcanists; online IDs 31, 55–57"
 topics: [arcanists, ceddra, showgirl, sandeep]
 last_reviewed: 2026-10-10
 superseded: false
@@ -30,4 +30,4 @@ superseded: false
 
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 6, печатная страница 6.
+[Официальный онлайн-FAQ, категория Arcanists](https://malifauxrules.com/rules/faq), проверено 2026-10-10.

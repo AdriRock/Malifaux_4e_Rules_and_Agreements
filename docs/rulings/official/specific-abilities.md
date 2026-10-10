@@ -2,9 +2,9 @@
 id: official-m4e-faq-2026-06-section-5
 title: "FAQ: отдельные Abilities, Actions и Triggers"
 status: official
-source: "Malifaux Fourth Edition Frequently Asked Questions"
-version: "June 2026"
-reference: "Section 5: Specific Abilities, Actions, and Triggers; printed page 6"
+source: "Malifaux Rules FAQ (official website)"
+version: "accessed 2026-10-10"
+reference: "Category: Specific Abilities, Actions, and Triggers; online IDs 28–30, 54, 90"
 topics: [hard-to-kill, stealth, onslaught, absolute-zero, bring-it, damage, movement]
 last_reviewed: 2026-10-10
 superseded: false
@@ -31,6 +31,10 @@ superseded: false
 
 Новое в June 2026. Движение вражеской цели контролирует модель, объявившая **Bring It!**.
 
+## Online FAQ 90 — Smolder
+
+Trigger **Smolder** даёт Burning Token независимо от того, был ли Burning на цели до этого. Если Token уже был, сначала разрешается его эффект; затем цель в любом случае получает Burning Token.
+
 ## Источник
 
-*Malifaux Fourth Edition Frequently Asked Questions*, June 2026, Section 5, печатная страница 6.
+[Официальный онлайн-FAQ, категория Specific Abilities, Actions, and Triggers](https://malifauxrules.com/rules/faq), проверено 2026-10-10.
