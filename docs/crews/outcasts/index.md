@@ -1,1 +1,1 @@
-# Outcasts — экипажи
+# Outcasts — банды

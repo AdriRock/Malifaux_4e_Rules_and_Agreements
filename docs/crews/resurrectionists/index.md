@@ -1,1 +1,1 @@
-# Resurrectionists — экипажи
+# Resurrectionists — банды

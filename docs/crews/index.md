@@ -1,4 +1,4 @@
-# Экипажи
+# Банды
 
 - [Arcanists](arcanists/index.md)
 - [Bayou](bayou/index.md)

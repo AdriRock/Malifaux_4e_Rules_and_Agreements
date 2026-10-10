@@ -1,1 +1,1 @@
-# Explorer's Society — экипажи
+# Explorer's Society — банды

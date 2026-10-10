@@ -1,1 +1,1 @@
-# Arcanists — экипажи
+# Arcanists — банды

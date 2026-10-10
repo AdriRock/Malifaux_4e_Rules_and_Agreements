@@ -51,7 +51,7 @@ nav:
           - "Tara, Voidcaller": models/outcasts/tara-voidcaller.md
       - Resurrectionists: models/resurrectionists/index.md
       - Ten Thunders: models/ten-thunders/index.md
-  - Экипажи:
+  - Банды:
       - Обзор: crews/index.md
       - Arcanists: crews/arcanists/index.md
       - Bayou: crews/bayou/index.md

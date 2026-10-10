@@ -1,1 +1,1 @@
-# Ten Thunders — экипажи
+# Ten Thunders — банды
