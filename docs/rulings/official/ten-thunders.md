@@ -20,6 +20,8 @@ superseded: false
 
 Ability следует читать так: один раз за активацию, когда дружественная модель завершает Move в пределах 6" и на elevation 2 или выше, Kara может разместиться в base contact с этой моделью.
 
+[**Карточка требует чтения по FAQ.**](card-overrides/kara-catlike-reflexes.md)
+
 ## Источник
 
 [Официальный онлайн-FAQ, категория Ten Thunders](https://malifauxrules.com/rules/faq), проверено 2026-10-10.

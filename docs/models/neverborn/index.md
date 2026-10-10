@@ -6,7 +6,7 @@
 - **Woe** — Feed on Paranoia и создание Scheme Marker (10.2).
 - **Candy** — Unique Model (10.3).
 - **Lord Chompy Bits, Lurking Lullaby** — контроль движения Fear Made Flesh (10.4).
-- **Titania** — цель Those Who Consume the Land (10.5).
+- **[Titania](titania.md)** — 🔴 Those Who Consume the Land следует читать по FAQ.
 - **Woe** — Opportunist и снятие дружественного Token (online ID 92).
 - **Stifling Thicket** — Gift of the Queen (online ID 93).
 - **Terror Tots / Young Nephilim** — Relish in Blood (online ID 94).

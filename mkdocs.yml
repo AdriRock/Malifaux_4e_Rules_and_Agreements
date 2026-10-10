@@ -30,6 +30,11 @@ markdown_extensions:
       alternate_style: true
 nav:
   - Главная: index.md
+  - Проверьте карточки:
+      - Быстрая памятка: card-overrides/index.md
+      - Читать по FAQ: card-overrides/faq-required.md
+      - Включено в Errata: card-overrides/errata-incorporated.md
+      - Архив: card-overrides/archive.md
   - Разъяснения:
       - Обзор: rulings/index.md
       - Официальные:
@@ -49,6 +54,15 @@ nav:
           - Resurrectionists: rulings/official/resurrectionists.md
           - Ten Thunders: rulings/official/ten-thunders.md
           - Campaign: rulings/official/campaign.md
+          - Исправления карточек:
+              - Sidir Archibal — Mortar Strike: rulings/official/card-overrides/sidir-archibal-mortar-strike.md
+              - Winston Finnigan — Won Over: rulings/official/card-overrides/winston-finnigan-won-over.md
+              - Titania — Those Who Consume the Land: rulings/official/card-overrides/titania-those-who-consume-the-land.md
+              - Stifling Thicket — Gift of the Queen: rulings/official/card-overrides/stifling-thicket-gift-of-the-queen.md
+              - Corpse Curator — Control Graft: rulings/official/card-overrides/corpse-curator-control-graft.md
+              - Kara — Catlike Reflexes: rulings/official/card-overrides/kara-catlike-reflexes.md
+              - Kara — Springing Strike: rulings/official/card-overrides/kara-springing-strike.md
+              - Fall Into Darkness: rulings/official/card-overrides/fall-into-darkness.md
           - Архив снятых пунктов June 2026: rulings/official/archive/faq-june-2026-not-current-online.md
       - RAW: rulings/raw/index.md
       - Договорённости сообщества: rulings/community/index.md
@@ -58,21 +72,32 @@ nav:
       - Обзор: models/index.md
       - Arcanists: models/arcanists/index.md
       - Bayou: models/bayou/index.md
-      - Explorer's Society: models/explorers-society/index.md
+      - Explorer's Society:
+          - Обзор: models/explorers-society/index.md
+          - Sidir Archibal: models/explorers-society/sidir-archibal.md
+          - Winston Finnigan: models/explorers-society/winston-finnigan.md
       - Guild: models/guild/index.md
-      - Neverborn: models/neverborn/index.md
+      - Neverborn:
+          - Обзор: models/neverborn/index.md
+          - Titania: models/neverborn/titania.md
       - Outcasts:
           - Обзор: models/outcasts/index.md
           - "Tara, Voidcaller": models/outcasts/tara-voidcaller.md
-      - Resurrectionists: models/resurrectionists/index.md
-      - Ten Thunders: models/ten-thunders/index.md
+      - Resurrectionists:
+          - Обзор: models/resurrectionists/index.md
+          - Corpse Curator: models/resurrectionists/corpse-curator.md
+      - Ten Thunders:
+          - Обзор: models/ten-thunders/index.md
+          - Kara: models/ten-thunders/kara.md
   - Банды:
       - Обзор: crews/index.md
       - Arcanists: crews/arcanists/index.md
       - Bayou: crews/bayou/index.md
       - Explorer's Society: crews/explorers-society/index.md
       - Guild: crews/guild/index.md
-      - Neverborn: crews/neverborn/index.md
+      - Neverborn:
+          - Обзор: crews/neverborn/index.md
+          - Stifling Thicket: crews/neverborn/stifling-thicket.md
       - Outcasts: crews/outcasts/index.md
       - Resurrectionists: crews/resurrectionists/index.md
       - Ten Thunders: crews/ten-thunders/index.md

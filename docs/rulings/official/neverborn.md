@@ -32,6 +32,8 @@ Candy является Unique Model.
 
 Новое в June 2026. Trigger может выбрать модель, отличную от цели родительского Action **The Withering**. Выбирается модель в base contact с Underbrush Marker; другая дружественная модель в пределах 8" от выбранной помещается в base contact с целью и объявляет указанный Action.
 
+[**Карточка требует чтения по FAQ.**](card-overrides/titania-those-who-consume-the-land.md)
+
 ## Online FAQ 92 — Woe: Opportunist
 
 Woe-модель может снять с себя дружественный Token посредством **Opportunist**, когда становится целью Attack, и получить преимущества этой Ability.
@@ -39,6 +41,8 @@ Woe-модель может снять с себя дружественный To
 ## Online FAQ 93 — Stifling Thicket: Gift of the Queen
 
 Ability следует читать так: один раз за активацию, когда модель объявляет Action и находится в пределах 1" от Underbrush Marker, она может получить Crow к duel total. Добавлять Crow именно к первому Action, например Walk, необязательно.
+
+[**Crew Card требует чтения по FAQ.**](card-overrides/stifling-thicket-gift-of-the-queen.md)
 
 ## Online FAQ 94 — Terror Tots и Young Nephilim: Relish in Blood
 

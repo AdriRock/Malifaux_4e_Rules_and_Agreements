@@ -36,6 +36,8 @@ Trigger **Lament of the Cursed** нельзя использовать для к
 
 Action следует играть так: целью выбирается союзник с Graft Token; он объявляет Action, напечатанный на его Crew Card, не снимая Graft Token. Если объявлен **“New Arms!”**, затем можно объявить дополнительный Interact Action.
 
+[**Карточка требует чтения по FAQ.**](card-overrides/corpse-curator-control-graft.md)
+
 ## Источник
 
 [Официальный онлайн-FAQ, категория Resurrectionists](https://malifauxrules.com/rules/faq), проверено 2026-10-10.

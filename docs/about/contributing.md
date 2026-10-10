@@ -10,4 +10,14 @@
 - добавлены перекрёстные ссылки;
 - заполнены `last_reviewed` и `superseded`.
 
+Если разъяснение меняет прочтение текста карточки, также заполните:
+
+- `kind: card_text_override`;
+- `cards` и `element`;
+- `errata_status` и `errata_checked_version`;
+- `app_card_status`;
+- `player_action`.
+
+По умолчанию опубликованная Errata означает, что карточка в приложении считается обновлённой (`app_card_status: assumed_current`). Статус `confirmed_stale_after_errata` зарезервирован на случай, если позже потребуется отдельно зафиксировать подтверждённое отставание приложения.
+
 Для предложения используйте GitHub issue по шаблону **Ruling proposal** или pull request.

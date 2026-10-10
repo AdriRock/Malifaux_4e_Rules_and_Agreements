@@ -16,6 +16,8 @@ superseded: false
 
 В тексте опечатка: после создания Remains Marker нужно удалить Destructible Terrain или **другой** Marker в пределах 2" от созданного. Только что созданный Remains Marker не удаляется из-за отсутствия других Markers.
 
+[**Карточка требует чтения по FAQ.**](card-overrides/sidir-archibal-mortar-strike.md)
+
 ## 8.3 — Alleyway Echo: порядок эффектов
 
 Новое в June 2026. После убийства через **Umbra Execution** порядок такой: Place от **Terror of Widdershins Lane**, затем Action от **Cruelty**, затем Action от **Terror of Widdershins Lane**.
@@ -27,6 +29,8 @@ superseded: false
 ## Online FAQ 91 — Winston Finnigan: Won Over
 
 Trigger следует читать так: **Enemy only. This trigger may not be controlled by enemy models. Target gains a Shame Token.** Иными словами, он применяется только к врагу и не может быть объявлен под контролем противника.
+
+[**Карточка требует чтения по FAQ.**](card-overrides/winston-finnigan-won-over.md)
 
 ## Источник
 
