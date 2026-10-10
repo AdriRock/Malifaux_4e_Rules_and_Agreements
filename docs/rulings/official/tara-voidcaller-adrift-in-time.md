@@ -11,7 +11,7 @@ topics:
   - adrift-in-time
   - activation
   - timing
-last_reviewed: 2026-08-21
+last_reviewed: 2026-10-10
 superseded: false
 ---
 
@@ -39,8 +39,10 @@ Tara не может использовать **Adrift In Time**, если вс�
 ## Связанные страницы
 
 - [Tara, Voidcaller](../../models/outcasts/tara-voidcaller.md)
+- [Все ответы FAQ для Outcasts](outcasts.md)
 - [Активации](../../rules/activation.md)
 
 ## История
 
 - 2026-08-21 — запись создана и сверена с FAQ June 2026.
+- 2026-10-10 — добавлена в полный каталог FAQ.

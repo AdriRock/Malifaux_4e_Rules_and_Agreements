@@ -11,6 +11,6 @@
 
 | Источник | Версия | Использование |
 | --- | --- | --- |
-| Malifaux Fourth Edition Frequently Asked Questions | June 2026 | Official rulings, включая Outcasts 11.4–11.5 |
+| [Malifaux Fourth Edition Frequently Asked Questions](faq-june-2026.md) | June 2026 | Полностью каталогизированы Sections 1–13, пункты 1.1–13.1 |
 
 В репозитории хранятся ссылки и краткие пересказы, но не полные копии официальных PDF Wyrd.

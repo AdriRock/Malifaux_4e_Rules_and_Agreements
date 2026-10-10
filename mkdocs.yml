@@ -34,7 +34,20 @@ nav:
       - Обзор: rulings/index.md
       - Официальные:
           - Обзор: rulings/official/index.md
+          - Общие правила: rulings/official/general.md
+          - Actions: rulings/official/actions.md
+          - Terrain: rulings/official/terrain.md
+          - Encounters: rulings/official/encounters.md
+          - Abilities, Actions и Triggers: rulings/official/specific-abilities.md
+          - Arcanists: rulings/official/arcanists.md
+          - Bayou: rulings/official/bayou.md
+          - Explorer's Society: rulings/official/explorers-society.md
+          - Guild: rulings/official/guild.md
+          - Neverborn: rulings/official/neverborn.md
+          - Outcasts: rulings/official/outcasts.md
           - "Tara, Voidcaller — Adrift In Time": rulings/official/tara-voidcaller-adrift-in-time.md
+          - Resurrectionists: rulings/official/resurrectionists.md
+          - Ten Thunders: rulings/official/ten-thunders.md
       - RAW: rulings/raw/index.md
       - Договорённости сообщества: rulings/community/index.md
       - Спорные вопросы: rulings/disputed/index.md
@@ -64,7 +77,9 @@ nav:
   - Общие правила:
       - Обзор: rules/index.md
       - Активации: rules/activation.md
-  - Источники: sources/index.md
+  - Источники:
+      - Обзор: sources/index.md
+      - FAQ June 2026: sources/faq-june-2026.md
   - О проекте:
       - Статусы: about/statuses.md
       - Методология: about/methodology.md
